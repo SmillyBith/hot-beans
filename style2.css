@@ -133,10 +133,12 @@ h3{
   background-color: #787878;
   padding: 20px;
   text-align: center;
+  font-size: 25px;
 }
 legend{
   color:  #ff7b00;
   text-decoration: underline;
+  
   
 }
 h6{

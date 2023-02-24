@@ -31,18 +31,16 @@
 
   <h3>
 <form action="SEND ADDRESS" id="ft-form" method="POST" accept-charset="UTF-8" enctype="multipart/form-data">
-  <fieldset>
     <legend>Job</legend>
     <label>
-      Application for *
+      Application for * 
       <select name="Application for" required>
         <option> Web Developer</option>
         <option>Trainee Web Developer </option>
+      
       </select>
     </label>
-  </fieldset>
-  <fieldset>
-    <legend>Personal data</legend>
+    <legend>Personal data </legend>
     <div class="two-cols">
       <label>
         First name *
@@ -73,8 +71,6 @@
        
       </label>
     </div>
-  </fieldset>
-  <fieldset>
     <legend>Documents</legend>
     <input type="hidden" name="MAX_FILE_SIZE" value="10485760">
     <div class="two-cols">
@@ -87,7 +83,6 @@
         <input type="file" name="Curriculum vitae" accept=".doc,.docx,.pdf">
       </label>
     </div>
-  </fieldset>
   <div class="btns">
     <input type="text" name="_gotcha" value="" style="display:none;">
     <input type="submit" value="Submit application">
