@@ -14,7 +14,6 @@ header{
   color: #ff5900;
   text-align: center;
   padding: 15px;
-  
 
 }
 nav{
@@ -23,13 +22,12 @@ nav{
   height: 300px; 
   background: #000000;
   padding: 20px;
-  
 
 }
 
 h2{
   padding: 20px;
-  color: white;
+  colour: white;
   text-align: center;
   background-color: grey;
 }
@@ -47,7 +45,6 @@ h2{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  
 }
 
 
@@ -61,7 +58,6 @@ h2{
 .topnav {
   overflow: hidden;
   background-color: #e9e9e9;
-  
 }
 
 .topnav a {
@@ -77,18 +73,15 @@ h2{
 .topnav a:hover {
   background-color: #ddd;
   color: black;
-  
 }
 
 .topnav a.active {
   background-color: #ff630f;
   color: white;
-  
 }
 
 .topnav .search-container {
   float: right;
-  
 }
 
 .topnav input[type=text] {
@@ -107,7 +100,6 @@ h2{
   font-size: 17px;
   border: none;
   cursor: pointer;
-  
 }
 
 .topnav .search-container button:hover {
@@ -148,10 +140,10 @@ p7{
 }
 h5 {
   background-color: #787878;
-  padding: 55px;
-  text-align: left;
+  padding: 20px;
+  text-align: center;
   font-size: 17px;
-  
+
 }
 h6{
   background-color: #787878;
