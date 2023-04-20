@@ -10,10 +10,12 @@ html, body {
 header{
   text-decoration:underline;
   background-color: #666;
-  font-size: 25px;
+  font-size: 20px;
   color: #ff5900;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
+  outline: 2px dashed white;
+  
 
 }
 nav{
@@ -35,6 +37,8 @@ h2{
 .topnav {
   overflow: hidden;
   background-color: #333;
+  top: 0;
+  position: sticky;
 }
 
 
